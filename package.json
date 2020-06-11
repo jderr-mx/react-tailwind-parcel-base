@@ -16,5 +16,6 @@
   },
   "scripts": {
     "dev": "parcel src/index.html"
-  }
+  },
+  "browserslist": ["last 2 Chrome versions"]
 }
