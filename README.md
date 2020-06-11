@@ -23,7 +23,7 @@ if you were going to do a prod build.
 ### MirageJS ###
 As a long time Ember enthusiast, Mirage has been a staple for mocking REST apis
 
-[Sam Selikoff](https://github.com/samselikoff) and man mirage contributors have made MirageJS available as standalone library
+[Sam Selikoff](https://github.com/samselikoff) and many mirage contributors have made MirageJS available as standalone library
 to use in non-Ember projects
 
 [Here is the getting started page](https://miragejs.com/docs/getting-started/introduction)
